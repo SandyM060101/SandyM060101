@@ -1,4 +1,4 @@
-<div align="center"> <img src=""> </div>
+<div align="center"> <img src="https://github.com/SandyM060101/SandyM060101/blob/main/banner.png"> </div>
 <h1 align="center">Hi, I'm Sandy Meliyawan</h1>
 <h3 align="center">Programmer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
